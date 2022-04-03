@@ -8,10 +8,9 @@
 #### My main language c++, but i can write in other languages
 #### And my english is not good
 
-'''cpp
+```cpp
 int main() {
-    std::cout << "Hello new day" << std::endl;
-    
+    std::cout << "Hello World!\n"; // fuck std::endl =)
     return 0;
 }
-'''
+```
