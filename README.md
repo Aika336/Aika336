@@ -10,7 +10,7 @@
 
 ```cpp
 int main() {
-    std::cout << "Hello World!\n"; // fuck std::endl =)
+    std::cout << "Hello new day!" << std::endl;
     return 0;
 }
 ```
