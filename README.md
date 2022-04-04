@@ -5,7 +5,7 @@
 
 ## About me
 #### I like to drink more water
-#### My main language is c++, but I can write in other languages
+#### My main language is C++, but I can write in other languages
 #### And my english is not good
 
 ```cpp
