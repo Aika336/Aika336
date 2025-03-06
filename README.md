@@ -6,7 +6,7 @@
 ## About me
 #### I like to drink more water
 #### My main language is C++, but I can write in other languages
-#### And my english is not good
+#### When there was no c++, the best language was ERROR<&*WRNOIPQ$=>
 
 ```cpp
 int main() {
