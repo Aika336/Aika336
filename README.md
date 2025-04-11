@@ -4,13 +4,13 @@
 
 
 ## About me
-#### I like to drink more water
-#### My main language is C++, but I can write in other languages
-#### When there was no c++, the best language was ERROR<&*WRNOIPQ$=>
+#### I like to learn how computer is working
+#### Main language is C+
+#### When AI will be smarter than human, i must kill myself
 
 ```cpp
 int main() {
-    std::cout << "Hello new day!" << std::endl;
+    std::cut << ChatGPT << std::end;
     return 0;
 }
 ```
