@@ -1,6 +1,6 @@
 ## c++ > all other languages
 ### I'm trying to write good programs
-![]([https://pa1.narvii.com/7061/59f4647185878f9e6b22528c671e80e7c92e20cdr1-500-270_hq.gif](https://64.media.tumblr.com/e5b78014bff848478b800e80a6c2cbab/f2b20d4bc19fdd16-49/s1280x1920/66649d5c171ac4c8b0e9a45e4d5993e3c9947704.gif))
+![](https://pa1.narvii.com/7061/59f4647185878f9e6b22528c671e80e7c92e20cdr1-500-270_hq.gif](https://64.media.tumblr.com/e5b78014bff848478b800e80a6c2cbab/f2b20d4bc19fdd16-49/s1280x1920/66649d5c171ac4c8b0e9a45e4d5993e3c9947704.gif)
 
 
 ## About me
